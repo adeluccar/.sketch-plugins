@@ -1,3 +1,6 @@
 [submodule "Plugins/sort-me-sketch"]
 	path = Plugins/sort-me-sketch
 	url = https://github.com/romashamin/sort-me-sketch
+[submodule "Plugins/social-artboards-sketch"]
+	path = Plugins/social-artboards-sketch
+	url = https://github.com/herrhelms/social-artboards-sketch
