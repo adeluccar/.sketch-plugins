@@ -16,3 +16,6 @@
 [submodule "Plugins/sketch-measure"]
 	path = Plugins/sketch-measure
 	url = https://github.com/utom/sketch-measure
+[submodule "Plugins/Sketch-Find-And-Replace"]
+	path = Plugins/Sketch-Find-And-Replace
+	url = https://github.com/thierryc/Sketch-Find-And-Replace
