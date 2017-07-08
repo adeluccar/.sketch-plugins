@@ -28,3 +28,6 @@
 [submodule "Plugins/sketch-commands"]
 	path = Plugins/sketch-commands
 	url = https://github.com/bomberstudios/sketch-commands
+[submodule "Plugins/RenameIt"]
+	path = Plugins/RenameIt
+	url = https://github.com/rodi01/RenameIt
