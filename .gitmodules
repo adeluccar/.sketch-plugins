@@ -10,3 +10,6 @@
 [submodule "Plugins/Sketch-Style-Inventory"]
 	path = Plugins/Sketch-Style-Inventory
 	url = https://github.com/getflourish/Sketch-Style-Inventory
+[submodule "Plugins/sketch-palettes"]
+	path = Plugins/sketch-palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes
