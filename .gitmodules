@@ -34,3 +34,6 @@
 [submodule "Plugins/gb-sketch-segmentcircle"]
 	path = Plugins/gb-sketch-segmentcircle
 	url = https://github.com/design4use/gb-sketch-segmentcircle
+[submodule "Plugins/BaseAlign"]
+	path = Plugins/BaseAlign
+	url = https://github.com/abynim/BaseAlign
