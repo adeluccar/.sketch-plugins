@@ -22,3 +22,6 @@
 [submodule "Plugins/sketch-dynamic-button-3.5"]
 	path = Plugins/sketch-dynamic-button-3.5
 	url = https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5
+[submodule "Plugins/sketch-data-populator"]
+	path = Plugins/sketch-data-populator
+	url = https://github.com/preciousforever/sketch-data-populator
