@@ -40,3 +40,6 @@
 [submodule "Plugins/chromatic-sketch"]
 	path = Plugins/chromatic-sketch
 	url = https://github.com/petterheterjag/chromatic-sketch
+[submodule "Plugins/nudgepushshove"]
+	path = Plugins/nudgepushshove
+	url = https://github.com/mfouquet/nudgepushshove
