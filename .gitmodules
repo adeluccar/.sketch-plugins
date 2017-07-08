@@ -7,3 +7,6 @@
 [submodule "Plugins/sketchdistributor"]
 	path = Plugins/sketchdistributor
 	url = https://github.com/pez/sketchdistributor
+[submodule "Plugins/Sketch-Style-Inventory"]
+	path = Plugins/Sketch-Style-Inventory
+	url = https://github.com/getflourish/Sketch-Style-Inventory
