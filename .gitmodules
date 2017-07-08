@@ -19,3 +19,6 @@
 [submodule "Plugins/Sketch-Find-And-Replace"]
 	path = Plugins/Sketch-Find-And-Replace
 	url = https://github.com/thierryc/Sketch-Find-And-Replace
+[submodule "Plugins/sketch-dynamic-button-3.5"]
+	path = Plugins/sketch-dynamic-button-3.5
+	url = https://github.com/fuggfuggfugg/sketch-dynamic-button-3.5
