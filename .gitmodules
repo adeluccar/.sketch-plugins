@@ -43,3 +43,6 @@
 [submodule "Plugins/nudgepushshove"]
 	path = Plugins/nudgepushshove
 	url = https://github.com/mfouquet/nudgepushshove
+[submodule "Plugins/RemoveAllGuides"]
+	path = Plugins/RemoveAllGuides
+	url = https://github.com/ichik/RemoveAllGuides
