@@ -31,3 +31,6 @@
 [submodule "Plugins/RenameIt"]
 	path = Plugins/RenameIt
 	url = https://github.com/rodi01/RenameIt
+[submodule "Plugins/gb-sketch-segmentcircle"]
+	path = Plugins/gb-sketch-segmentcircle
+	url = https://github.com/design4use/gb-sketch-segmentcircle
