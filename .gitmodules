@@ -1,0 +1,3 @@
+[submodule "Plugins/sort-me-sketch"]
+	path = Plugins/sort-me-sketch
+	url = https://github.com/romashamin/sort-me-sketch
