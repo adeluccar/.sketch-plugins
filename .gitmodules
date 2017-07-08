@@ -25,3 +25,6 @@
 [submodule "Plugins/sketch-data-populator"]
 	path = Plugins/sketch-data-populator
 	url = https://github.com/preciousforever/sketch-data-populator
+[submodule "Plugins/sketch-commands"]
+	path = Plugins/sketch-commands
+	url = https://github.com/bomberstudios/sketch-commands
