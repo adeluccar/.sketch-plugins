@@ -37,3 +37,6 @@
 [submodule "Plugins/BaseAlign"]
 	path = Plugins/BaseAlign
 	url = https://github.com/abynim/BaseAlign
+[submodule "Plugins/chromatic-sketch"]
+	path = Plugins/chromatic-sketch
+	url = https://github.com/petterheterjag/chromatic-sketch
