@@ -4,3 +4,6 @@
 [submodule "Plugins/social-artboards-sketch"]
 	path = Plugins/social-artboards-sketch
 	url = https://github.com/herrhelms/social-artboards-sketch
+[submodule "Plugins/sketchdistributor"]
+	path = Plugins/sketchdistributor
+	url = https://github.com/pez/sketchdistributor
